@@ -82,7 +82,7 @@ Then create the environment via
 
 ## Run experiments
 
-In the root of repo before running experiments set environment variables
+In the root of repo run 
 ```
 pip install -r requirements.txt --no-cache-dir 
 cd playground
